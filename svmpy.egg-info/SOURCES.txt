@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.py
+bin/svm-py-demo
+svmpy/__init__.py
+svmpy/kernel.py
+svmpy/svm.py
+svmpy.egg-info/PKG-INFO
+svmpy.egg-info/SOURCES.txt
+svmpy.egg-info/dependency_links.txt
+svmpy.egg-info/not-zip-safe
+svmpy.egg-info/requires.txt
+svmpy.egg-info/top_level.txt
