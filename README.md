@@ -24,5 +24,11 @@ There is one more intuition for LUPI, which I will confirm later.
 ## Implementations
 1. [SVM+](https://github.com/transmatrix-github/svmplus_matlab) : svm_+ implementation in matlab
 2. [Margin Transfer](http://ilovevisiondata.wix.com/viktoriia#!projects/cm8a) : A Variant of SVM+ algorithm which can be solved using standard SVM solvers
-3. 
+
+## Datasets
+1. [Adult income dataset](https://archive.ics.uci.edu/ml/datasets/Adult): predicting income level
+2. [Age of Wine](http://archive.ics.uci.edu/ml/datasets/Wine): determining age of wine from composition
+   ( find first the median and convert to regression problem )
+3. [Iris dataset](http://archive.ics.uci.edu/ml/datasets/Iris): Standard Iris dataset
+4. [wine quality](http://archive.ics.uci.edu/ml/datasets/Wine+Quality): wine quality
 
