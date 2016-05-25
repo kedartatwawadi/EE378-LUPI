@@ -31,4 +31,4 @@ There is one more intuition for LUPI, which I will confirm later.
    ( find first the median and convert to regression problem )
 3. [Iris dataset](http://archive.ics.uci.edu/ml/datasets/Iris): Standard Iris dataset
 4. [wine quality](http://archive.ics.uci.edu/ml/datasets/Wine+Quality): wine quality
-
+5. [Cancer Dataset](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29): determining if the tumor is good/bad
