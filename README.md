@@ -21,5 +21,8 @@ There is one more intuition for LUPI, which I will confirm later.
 3. [Learning to Transfer Privileged Information](http://ilovevisiondata.wix.com/viktoriia#!projects/cm8a)
 4. [Learning Using Privileged Information: SVM+ and Weighted SVM](https://arxiv.org/pdf/1306.3161.pdf)
 
-
+## Implementations
+1. [SVM+](https://github.com/transmatrix-github/svmplus_matlab) : svm_+ implementation in matlab
+2. [Margin Transfer](http://ilovevisiondata.wix.com/viktoriia#!projects/cm8a) : A Variant of SVM+ algorithm which can be solved using standard SVM solvers
+3. 
 
